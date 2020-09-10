@@ -1,6 +1,4 @@
 /.idea
 /out
-/JPTVR19
 /JPTVR19Game
-JPTVR19.iml
 JPTVR19Game.iml
