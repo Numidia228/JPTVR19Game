@@ -7,8 +7,7 @@ public class App {
     public void run() {
         System.out.println("Привет.");
         System.out.print("Программа загадала число, угадай: ");
-        Random random = new Random();
-        int myNumber = random.nextInt(5 - 0 + 1) + 0;
+        int myNumber = 2;
         Scanner scanner = new Scanner(System.in);
         int userNumber = scanner.nextInt();
         if (myNumber == userNumber)
